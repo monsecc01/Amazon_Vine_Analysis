@@ -13,7 +13,6 @@ We used PySpark to perform two technical technical analysis to better understand
 * Calculating review metrics
 
 ## Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
 
