@@ -15,21 +15,21 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 * How many Vine reviews and non-Vine reviews were there?
 
-![paid reviews](https://user-images.githubusercontent.com/81447450/125978512-0972a8b2-331d-4d22-9785-d55b44db6326.png)
+  ![paid reviews](https://user-images.githubusercontent.com/81447450/125978512-0972a8b2-331d-4d22-9785-d55b44db6326.png)
 
-![unpaid reviews](https://user-images.githubusercontent.com/81447450/125978530-b3ee9c0c-a174-424d-bf24-ff8a4e597fbc.png)
+  ![unpaid reviews](https://user-images.githubusercontent.com/81447450/125978530-b3ee9c0c-a174-424d-bf24-ff8a4e597fbc.png)
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-![5 star paid](https://user-images.githubusercontent.com/81447450/125978563-57e6dbe6-35f7-4aab-a48c-965542decf1f.png)
+  ![5 star paid](https://user-images.githubusercontent.com/81447450/125978563-57e6dbe6-35f7-4aab-a48c-965542decf1f.png)
 
-![5 star unpaid](https://user-images.githubusercontent.com/81447450/125978575-96486d23-1bca-4ace-a6bd-8ece86c0515b.png)
+  ![5 star unpaid](https://user-images.githubusercontent.com/81447450/125978575-96486d23-1bca-4ace-a6bd-8ece86c0515b.png)
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![percentage paid](https://user-images.githubusercontent.com/81447450/125978604-6bb10767-9c1e-4c49-ace4-b73e443bec86.png)
-![percentage unpaid](https://user-images.githubusercontent.com/81447450/125978611-bbf5f713-367c-4805-aae3-b3c46dd08429.png)
+  ![percentage paid](https://user-images.githubusercontent.com/81447450/125978604-6bb10767-9c1e-4c49-ace4-b73e443bec86.png)
+  ![percentage unpaid](https://user-images.githubusercontent.com/81447450/125978611-bbf5f713-367c-4805-aae3-b3c46dd08429.png)
 
 
 ## Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+The vine analysis shows that 59% of paid reviews are given 5-stars, compared to 54% of unpaid reviews that were given 5-stars. The difference is minimal and the percentages are about the same, therefore we can conclude there is not a strong bias towards 5-star reviews from paying Vine members. Additionally when we look at the number of paid vs unpaid counts, there over 1000 times more non-Vine reviews than there are Vine reviews. 
