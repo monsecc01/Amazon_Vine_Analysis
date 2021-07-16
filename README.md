@@ -3,6 +3,7 @@
 ## Resources
 
 Data Source: [Amazon_Reviews_pds](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+
 Software: Google Colab Notebook, PostgreSQL 11.11, pgAdmin 4 4.30, AWS (RDS, EC2)
 
 ## Overview of the analysis: 
