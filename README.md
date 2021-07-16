@@ -32,4 +32,6 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 
 ## Summary: 
-The vine analysis shows that 59% of paid reviews are given 5-stars, compared to 54% of unpaid reviews that were given 5-stars. The difference is minimal and the percentages are about the same, therefore we can conclude there is not a strong bias towards 5-star reviews from paying Vine members. Additionally when we look at the number of paid vs unpaid counts, there over 1000 times more non-Vine reviews than there are Vine reviews. 
+The vine analysis shows that 59% of paid reviews are given 5-stars, compared to 54% of unpaid reviews that were given 5-stars. The difference is minimal and the percentages are about the same, therefore we can conclude there is not a strong bias towards 5-star reviews from paying Vine members. Additionally when we look at the number of paid vs unpaid counts, there over 1000 times more non-Vine reviews than there are Vine reviews, so non-Vine reviews will overshadow Vine reviews.
+
+Another anaysis to further support our conclusion is to find the mean star ratings of Vine vs non-Vine reviews. We can do this by obtaining the summary statitics of the dataset using pandas.
